@@ -40,7 +40,7 @@ php 03-view-a-cart.php
 
 Il file si occupa di visualizzare i dettagli del carrello di prova.
 
-## Test 3: Visualizzazione carrello
+## Test 4: Visualizzazione carrello
 
 ### Esecuzione
 
